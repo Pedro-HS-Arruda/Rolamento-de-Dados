@@ -1,0 +1,46 @@
+*{
+    background-color: #032152;
+    font-family: Indie Flower, cursive;
+    color: #fff;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice{
+    display: inline-block;
+}
+
+main{
+    padding-top: 50px;
+}
+h1{
+    margin: 30px;
+    font-family: 'Lobster',cursive;
+    text-shadow: 4px 0 #232931;
+    font-size: 5rem;
+    color: aqua;
+}
+
+h2{
+    font-size: 2rem;
+    padding-top: 14%;
+    color: aquamarine;
+}
+
+img{
+    width: 80%;
+}
+
+footer{
+    padding-top: 14%;
+    text-align: center;
+
+}
+
+h3{
+    font-family: Kanit;
+}
